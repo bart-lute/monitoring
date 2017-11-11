@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "797977660770-vees0ri7qjfjn75sscvuunng5giuq9cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.youwe.monitoring",
+            "certificate_hash": "faad5733fed73d4953f364da031903446d9108ff"
+          }
+        },
+        {
           "client_id": "797977660770-9mvad8j91j7ijk9u6ucj12ohf0c8a2hc.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
